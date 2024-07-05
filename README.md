@@ -18,7 +18,7 @@
 
 - 📫 **osman25dem@gmail.com** 
 
-- <a href="https://linkedin.com/in/osman demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osman demir" height="30" width="40" /></a>
+- <a href="https://linkedin.com/in/osmandemir2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmandemir2533" height="20" width="30" /></a>
   
  
 </p>
