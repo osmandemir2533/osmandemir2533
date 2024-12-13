@@ -63,11 +63,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-- 📫 **osman25dem@gmail.com** 
+[![Email](https://img.icons8.com/ios-filled/50/FF0000/gmail.png)](mailto:osman25dem@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/osmandemir2533/)
 
-- <a href="https://linkedin.com/in/osmandemir2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmandemir2533" height="20" width="30" /></a>
-  
- 
+**osman25dem@gmail.com** 
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmandemir2533&show_icons=true&locale=en&layout=compact" alt="osmandemir2533" /></p>
