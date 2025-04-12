@@ -4,6 +4,11 @@
 
 
 <h1 align="center">Osman Demir</h1>
+<p align="center">
+  <a href="https://osmandemir2533.github.io/" target="_blank" style="font-size: 18px; color: #0077b6; text-decoration: none; font-weight: bold; padding: 10px 20px; border-radius: 5px; border: 2px solid #0077b6;">
+    <span style="color: #ff6f61;">osmandemir2533.github.io</span>
+  </a>
+</p>
 <h3 align="center">🌐 Web Developer | 🛠️ Backend Developer | 🚀 Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmandemir2533&label=Profile%20views&color=0e75b6&style=flat" alt="osmandemir2533" /> </p>
