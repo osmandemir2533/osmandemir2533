@@ -68,7 +68,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Email](https://img.icons8.com/ios-filled/50/FF0000/gmail.png)](mailto:osman25dem@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/osmandemir2533/)
+[![Email](https://img.icons8.com/ios-filled/50/FF0000/gmail.png)](mailto:osman25dem@gmail.com) &nbsp;&nbsp;&nbsp; 
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/osmandemir2533/) &nbsp;&nbsp;&nbsp; 
+[![Web Site](https://img.icons8.com/ios-filled/50/4d90fe/domain.png)](https://osmandemir2533.github.io/)
+
 
 **osman25dem@gmail.com** 
 
